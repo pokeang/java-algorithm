@@ -1,4 +1,4 @@
-public class Solution {
+public class maxMinTreeNode {
 	public static void main(String args[]) {
 		TreeNode data = new TreeNode(new String[]{ "3", "3", "4", "5", "null", "null", "null", "1" });
 		int result = maxMinProduct(data);
