@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-
+// add input & output
 public class hr_array_greeness {
 
 	public static void main(String[] args) {
