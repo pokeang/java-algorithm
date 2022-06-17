@@ -1,5 +1,3 @@
-package java8.learn;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
