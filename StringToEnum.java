@@ -1,4 +1,3 @@
-package java8.learn;
 
 public class StringToEnum {
 
