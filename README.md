@@ -1,4 +1,4 @@
-# java-algorithm
+# Expect result of hr_array_greeness.java 
 1. The input and output:
 input: 2, "3 1"
 expected output: 
