@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.StringReader;
 import java.util.Scanner;
 
-public class Solution2 {
+public class 2D_array {
 	public static void main(String args[]) {
 		int[][] map = {{1,1,2}, {3,4,3}, {3,1,2}};
 		int result = minimumCost(map);
